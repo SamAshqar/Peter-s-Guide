@@ -1,0 +1,380 @@
+Carl's Jr.
+hours-> [{'open': [{'is_overnight': False, 'start': '0600', 'end': '2200', 'day': 0}, {'is_overnight': False, 'start': '0600', 'end': '2200', 'day': 1}, {'is_overnight': False, 'start': '0600', 'end': '2200', 'day': 2}, {'is_overnight': False, 'start': '0600', 'end': '2200', 'day': 3}, {'is_overnight': False, 'start': '0600', 'end': '2200', 'day': 4}, {'is_overnight': False, 'start': '0600', 'end': '2200', 'day': 5}, {'is_overnight': False, 'start': '0600', 'end': '2200', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'burgers', 'title': 'Burgers'}]
+latitude-> 33.6758945
+longitude-> -117.7945514
+phone-> (949) 559-0882
+image-> https://s3-media1.fl.yelpcdn.com/bphoto/aprqHVojIBzgKwmedDvEtg/o.jpg
+location-> 4960 Barranca Pkwy Irvine, CA 92604
+rating-> 2.5
+yelp_url-> https://www.yelp.com/biz/carls-jr-irvine-7?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Sessions West Coast Deli
+hours-> [{'open': [{'is_overnight': False, 'start': '0700', 'end': '2100', 'day': 0}, {'is_overnight': False, 'start': '0700', 'end': '2100', 'day': 1}, {'is_overnight': False, 'start': '0700', 'end': '2100', 'day': 2}, {'is_overnight': False, 'start': '0700', 'end': '2100', 'day': 3}, {'is_overnight': False, 'start': '0700', 'end': '2100', 'day': 4}, {'is_overnight': False, 'start': '0700', 'end': '2100', 'day': 5}, {'is_overnight': False, 'start': '0700', 'end': '2100', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'delis', 'title': 'Delis'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]
+latitude-> 33.6773174
+longitude-> -117.7984133
+phone-> (949) 333-3949
+image-> https://s3-media2.fl.yelpcdn.com/bphoto/F18nyJ0-ANfQx_3VpEXZwA/o.jpg
+location-> 4736 Barranca Pkwy Irvine, CA 92604
+rating-> 4.0
+yelp_url-> https://www.yelp.com/biz/sessions-west-coast-deli-irvine-3?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Del Taco
+hours-> [{'open': [{'is_overnight': True, 'start': '0600', 'end': '0030', 'day': 0}, {'is_overnight': True, 'start': '0600', 'end': '0030', 'day': 1}, {'is_overnight': True, 'start': '0600', 'end': '0030', 'day': 2}, {'is_overnight': True, 'start': '0600', 'end': '0030', 'day': 3}, {'is_overnight': True, 'start': '0600', 'end': '0100', 'day': 4}, {'is_overnight': False, 'start': '0700', 'end': '2330', 'day': 5}, {'is_overnight': False, 'start': '0700', 'end': '2330', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'mexican', 'title': 'Mexican'}]
+latitude-> 33.67613
+longitude-> -117.798
+phone-> (949) 551-8792
+image-> https://s3-media1.fl.yelpcdn.com/bphoto/DYFMDjPryIO-fagFhyC-5A/o.jpg
+location-> 4820 Barranca Pkwy Irvine, CA 92604
+rating-> 3.0
+yelp_url-> https://www.yelp.com/biz/del-taco-irvine-2?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Cha For Tea
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 4}, {'is_overnight': False, 'start': '1000', 'end': '2200', 'day': 5}, {'is_overnight': False, 'start': '1000', 'end': '2200', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'bubbletea', 'title': 'Bubble Tea'}]
+latitude-> 33.6776741772168
+longitude-> -117.799007892704
+phone-> (949) 653-5518
+image-> https://s3-media1.fl.yelpcdn.com/bphoto/M0_JqejLD5ZpJMJnVthJIw/o.jpg
+location-> 4740 Barranca Pkwy Irvine, CA 92604
+rating-> 3.5
+yelp_url-> https://www.yelp.com/biz/cha-for-tea-irvine-12?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Ruby's Diner
+hours-> [{'open': [{'is_overnight': False, 'start': '0700', 'end': '2100', 'day': 0}, {'is_overnight': False, 'start': '0700', 'end': '2100', 'day': 1}, {'is_overnight': False, 'start': '0700', 'end': '2100', 'day': 2}, {'is_overnight': False, 'start': '0700', 'end': '2100', 'day': 3}, {'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 4}, {'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 5}, {'is_overnight': False, 'start': '0700', 'end': '2100', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'diners', 'title': 'Diners'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]
+latitude-> 33.677745894035
+longitude-> -117.799599895489
+phone-> (949) 552-7829
+image-> https://s3-media1.fl.yelpcdn.com/bphoto/fogn1AfSIMOi_AFk8lNYmw/o.jpg
+location-> 4602 Barranca Pkwy Irvine, CA 92604
+rating-> 3.5
+yelp_url-> https://www.yelp.com/biz/rubys-diner-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Yogurtland
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '0000', 'day': 4}, {'is_overnight': False, 'start': '1100', 'end': '0000', 'day': 5}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}]
+latitude-> 33.67782
+longitude-> -117.79976
+phone-> (949) 932-0829
+image-> https://s3-media3.fl.yelpcdn.com/bphoto/dIt9UPaDsMfVtdzWpRDlkg/o.jpg
+location-> 4616 Barranca Pkwy Irvine, CA 92604
+rating-> 3.0
+yelp_url-> https://www.yelp.com/biz/yogurtland-irvine-14?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+The Pizza Press
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 4}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 5}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'salad', 'title': 'Salad'}, {'alias': 'pizza', 'title': 'Pizza'}]
+latitude-> 33.6778199
+longitude-> -117.79976
+phone-> (949) 333-2088
+image-> https://s3-media2.fl.yelpcdn.com/bphoto/DlLHFsjVA6Yg5gym7l4HAQ/o.jpg
+location-> 4610 Barranca Pkwy Irvine, CA 92604
+rating-> 3.0
+yelp_url-> https://www.yelp.com/biz/the-pizza-press-irvine-2?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+The Lost Bean- Irvine
+hours-> [{'open': [{'is_overnight': False, 'start': '0600', 'end': '2030', 'day': 0}, {'is_overnight': False, 'start': '0600', 'end': '2030', 'day': 1}, {'is_overnight': False, 'start': '0600', 'end': '2030', 'day': 2}, {'is_overnight': False, 'start': '0600', 'end': '2030', 'day': 3}, {'is_overnight': False, 'start': '0600', 'end': '2030', 'day': 4}, {'is_overnight': False, 'start': '0600', 'end': '2130', 'day': 5}, {'is_overnight': False, 'start': '0700', 'end': '1900', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': False}]
+categories-> [{'alias': 'coffee', 'title': 'Coffee & Tea'}]
+latitude-> 33.677439
+longitude-> -117.799945
+phone-> (949) 333-2241
+image-> https://s3-media2.fl.yelpcdn.com/bphoto/RRWiHbfZdZtv8aHdbRun8w/o.jpg
+location-> 4632 Barranca Pkwy Irvine, CA 92604
+rating-> 4.0
+yelp_url-> https://www.yelp.com/biz/the-lost-bean-irvine-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Champagne French Bakery Cafe
+hours-> [{'open': [{'is_overnight': False, 'start': '0700', 'end': '1900', 'day': 0}, {'is_overnight': False, 'start': '0700', 'end': '1900', 'day': 1}, {'is_overnight': False, 'start': '0700', 'end': '1900', 'day': 2}, {'is_overnight': False, 'start': '0700', 'end': '1900', 'day': 3}, {'is_overnight': False, 'start': '0700', 'end': '1900', 'day': 4}, {'is_overnight': False, 'start': '0700', 'end': '1900', 'day': 5}, {'is_overnight': False, 'start': '0700', 'end': '1900', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': False}]
+categories-> [{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'desserts', 'title': 'Desserts'}]
+latitude-> 33.67748
+longitude-> -117.800089
+phone-> (949) 653-6828
+image-> https://s3-media4.fl.yelpcdn.com/bphoto/nLW-q2NmB_cTbuOkklPykA/o.jpg
+location-> 4628 Barranca Pkwy Irvine, CA 92604
+rating-> 3.0
+yelp_url-> https://www.yelp.com/biz/champagne-french-bakery-cafe-irvine-2?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Togo’s Sandwiches
+hours-> [{'open': [{'is_overnight': False, 'start': '1000', 'end': '2000', 'day': 0}, {'is_overnight': False, 'start': '1000', 'end': '2000', 'day': 1}, {'is_overnight': False, 'start': '1000', 'end': '2000', 'day': 2}, {'is_overnight': False, 'start': '1000', 'end': '2000', 'day': 3}, {'is_overnight': False, 'start': '1000', 'end': '2000', 'day': 4}, {'is_overnight': False, 'start': '1000', 'end': '2000', 'day': 5}, {'is_overnight': False, 'start': '1000', 'end': '2000', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': False}]
+categories-> [{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'delis', 'title': 'Delis'}, {'alias': 'hotdogs', 'title': 'Fast Food'}]
+latitude-> 33.6720858473187
+longitude-> -117.790273614402
+phone-> (949) 552-7716
+image-> https://s3-media3.fl.yelpcdn.com/bphoto/HfPomMov0HDpZ5agr_QOVg/o.jpg
+location-> 5325 Alton Pkwy Ste C Irvine, CA 92604
+rating-> 2.5
+yelp_url-> https://www.yelp.com/biz/togo-s-sandwiches-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Sushi At Ralph's
+hours-> [{'open': [{'is_overnight': True, 'start': '0600', 'end': '0100', 'day': 0}, {'is_overnight': True, 'start': '0600', 'end': '0100', 'day': 1}, {'is_overnight': True, 'start': '0600', 'end': '0100', 'day': 2}, {'is_overnight': True, 'start': '0600', 'end': '0100', 'day': 3}, {'is_overnight': True, 'start': '0600', 'end': '0100', 'day': 4}, {'is_overnight': True, 'start': '0600', 'end': '0100', 'day': 5}, {'is_overnight': True, 'start': '0600', 'end': '0100', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]
+latitude-> 33.6718495828513
+longitude-> -117.789974651895
+phone-> 
+image-> https://s3-media4.fl.yelpcdn.com/bphoto/jS3S_wEg3xOqIb52dxZa5g/o.jpg
+location-> 5345 Alton Pkwy Irvine, CA 92618
+rating-> 4.5
+yelp_url-> https://www.yelp.com/biz/sushi-at-ralphs-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+MOOYAH Burgers, Fries & Shakes
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 4}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 5}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}, {'alias': 'hotdog', 'title': 'Hot Dogs'}]
+latitude-> 33.671683
+longitude-> -117.789418
+phone-> (949) 333-3758
+image-> https://s3-media4.fl.yelpcdn.com/bphoto/QxDYRrMdA9eQMHVMeXHaTA/o.jpg
+location-> 5365 Alton Pkwy Ste A2 Alton Square Shopping Center Irvine, CA 92604
+rating-> 4.0
+yelp_url-> https://www.yelp.com/biz/mooyah-burgers-fries-and-shakes-irvine-3?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Crazy Rock'N Sushi
+hours-> [{'open': [{'is_overnight': False, 'start': '1130', 'end': '2130', 'day': 0}, {'is_overnight': False, 'start': '1130', 'end': '2130', 'day': 1}, {'is_overnight': False, 'start': '1130', 'end': '2130', 'day': 2}, {'is_overnight': False, 'start': '1130', 'end': '2130', 'day': 3}, {'is_overnight': False, 'start': '1130', 'end': '2200', 'day': 4}, {'is_overnight': False, 'start': '1200', 'end': '2200', 'day': 5}, {'is_overnight': False, 'start': '1200', 'end': '2100', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]
+latitude-> 33.6716482930377
+longitude-> -117.789346016944
+phone-> (949) 551-3599
+image-> https://s3-media3.fl.yelpcdn.com/bphoto/DE90dS5i16MtuBQiUxO9-w/o.jpg
+location-> 5365 Alton Pkwy Ste B-1 Irvine, CA 92604
+rating-> 4.0
+yelp_url-> https://www.yelp.com/biz/crazy-rockn-sushi-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Starbucks
+hours-> [{'open': [{'is_overnight': False, 'start': '0400', 'end': '2100', 'day': 0}, {'is_overnight': False, 'start': '0400', 'end': '2100', 'day': 1}, {'is_overnight': False, 'start': '0400', 'end': '2100', 'day': 2}, {'is_overnight': False, 'start': '0400', 'end': '2100', 'day': 3}, {'is_overnight': False, 'start': '0430', 'end': '2030', 'day': 4}, {'is_overnight': False, 'start': '0430', 'end': '2030', 'day': 5}, {'is_overnight': False, 'start': '0400', 'end': '2100', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'coffee', 'title': 'Coffee & Tea'}]
+latitude-> 33.671541
+longitude-> -117.789326
+phone-> (949) 857-8102
+image-> https://s3-media4.fl.yelpcdn.com/bphoto/ODWRfSPqLVnauhUn4Ijs0g/o.jpg
+location-> 5365-B Alton Parkway Irvine, CA 92604
+rating-> 3.0
+yelp_url-> https://www.yelp.com/biz/starbucks-irvine-12?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Chronic Tacos
+hours-> [{'open': [{'is_overnight': False, 'start': '0800', 'end': '2100', 'day': 0}, {'is_overnight': False, 'start': '0800', 'end': '2100', 'day': 1}, {'is_overnight': False, 'start': '0800', 'end': '2100', 'day': 2}, {'is_overnight': False, 'start': '0800', 'end': '2130', 'day': 3}, {'is_overnight': False, 'start': '0800', 'end': '2130', 'day': 4}, {'is_overnight': False, 'start': '0800', 'end': '2130', 'day': 5}, {'is_overnight': False, 'start': '0930', 'end': '2130', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'gluten_free', 'title': 'Gluten-Free'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]
+latitude-> 33.67152921089
+longitude-> -117.789223033997
+phone-> (949) 653-8226
+image-> https://s3-media4.fl.yelpcdn.com/bphoto/mbsehgBvWvzmsdPr0c1Qgg/o.jpg
+location-> 5365 Alton Pkwy Ste D Irvine, CA 92604
+rating-> 3.5
+yelp_url-> https://www.yelp.com/biz/chronic-tacos-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+OMOMO Tea Shoppe
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 0}, {'is_overnight': False, 'start': '1200', 'end': '1800', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 4}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 5}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'tea', 'title': 'Tea Rooms'}, {'alias': 'bubbletea', 'title': 'Bubble Tea'}]
+latitude-> 33.67107
+longitude-> -117.78909
+phone-> (949) 861-8828
+image-> https://s3-media3.fl.yelpcdn.com/bphoto/0AueyZ1S9wWMCys4792fUA/o.jpg
+location-> 5365 Alton Pkwy Unit G Irvine, CA 92604
+rating-> 4.0
+yelp_url-> https://www.yelp.com/biz/omomo-tea-shoppe-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Olives Branch Express
+hours-> [{'open': [{'is_overnight': False, 'start': '0800', 'end': '2130', 'day': 0}, {'is_overnight': False, 'start': '0800', 'end': '2130', 'day': 1}, {'is_overnight': False, 'start': '0800', 'end': '2130', 'day': 2}, {'is_overnight': False, 'start': '0800', 'end': '2130', 'day': 3}, {'is_overnight': False, 'start': '0800', 'end': '2130', 'day': 4}, {'is_overnight': False, 'start': '0800', 'end': '2130', 'day': 5}, {'is_overnight': False, 'start': '0800', 'end': '2130', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'mideastern', 'title': 'Middle Eastern'}]
+latitude-> 33.67107
+longitude-> -117.78909
+phone-> (949) 679-4222
+image-> https://s3-media4.fl.yelpcdn.com/bphoto/vasvhQqgnKIF1620nQ-wYA/o.jpg
+location-> 5365 K Alton Pkwy Irvine, CA 92604
+rating-> 4.5
+yelp_url-> https://www.yelp.com/biz/olives-branch-express-irvine-3?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Pick Up Stix
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 4}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 5}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]
+latitude-> 33.671081
+longitude-> -117.789115
+phone-> (949) 786-7849
+image-> https://s3-media1.fl.yelpcdn.com/bphoto/JbONLBz3WwVGwp70u7Q6SQ/o.jpg
+location-> 5365 Alton Pkwy Ste H Irvine, CA 92604
+rating-> 3.0
+yelp_url-> https://www.yelp.com/biz/pick-up-stix-irvine-7?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+McDonald's
+hours-> [{'open': [{'is_overnight': True, 'start': '0000', 'end': '0000', 'day': 0}, {'is_overnight': True, 'start': '0000', 'end': '0000', 'day': 1}, {'is_overnight': True, 'start': '0000', 'end': '0000', 'day': 2}, {'is_overnight': True, 'start': '0000', 'end': '0000', 'day': 3}, {'is_overnight': True, 'start': '0000', 'end': '0000', 'day': 4}, {'is_overnight': True, 'start': '0000', 'end': '0000', 'day': 5}, {'is_overnight': True, 'start': '0000', 'end': '0000', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]
+latitude-> 33.6707730659538
+longitude-> -117.789391200067
+phone-> (949) 551-4700
+image-> https://s3-media2.fl.yelpcdn.com/bphoto/yjGTn2DbGKE57ErsYjsfDg/o.jpg
+location-> 5445 Alton Pkwy Irvine, CA 92614
+rating-> 2.5
+yelp_url-> https://www.yelp.com/biz/mcdonalds-irvine-8?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+California Pizza Kitchen at Alton Square
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 4}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 5}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'newamerican', 'title': 'American (New)'}]
+latitude-> 33.670339
+longitude-> -117.788647
+phone-> (949) 396-1120
+image-> https://s3-media1.fl.yelpcdn.com/bphoto/q7YjqBglMKX4LAO2hEVZBw/o.jpg
+location-> 5465 Alton Pkwy Alton Square Irvine, CA 92604
+rating-> 3.5
+yelp_url-> https://www.yelp.com/biz/california-pizza-kitchen-at-alton-square-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Philly's Best
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 4}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 5}, {'is_overnight': False, 'start': '1100', 'end': '1930', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'cheesesteaks', 'title': 'Cheesesteaks'}]
+latitude-> 33.681
+longitude-> -117.80452
+phone-> (949) 857-2448
+image-> https://s3-media3.fl.yelpcdn.com/bphoto/RQ5zUzd4SORRiqloSzwQSw/o.jpg
+location-> 4250 Barranca Pkwy Ste R Irvine, CA 92604
+rating-> 4.0
+yelp_url-> https://www.yelp.com/biz/phillys-best-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Las Fajitas Grill
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2000', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2000', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2000', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2000', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2000', 'day': 4}, {'is_overnight': False, 'start': '0800', 'end': '2000', 'day': 5}, {'is_overnight': False, 'start': '0800', 'end': '1500', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': False}]
+categories-> [{'alias': 'mexican', 'title': 'Mexican'}]
+latitude-> 33.681
+longitude-> -117.80452
+phone-> (949) 653-0707
+image-> https://s3-media4.fl.yelpcdn.com/bphoto/DL8kvvoTQIYvgiNc-7FeQw/o.jpg
+location-> 4250 Barranca Pkwy Ste L Irvine, CA 92604
+rating-> 4.0
+yelp_url-> https://www.yelp.com/biz/las-fajitas-grill-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Layer Cake Bakery - LCB
+hours-> [{'open': [{'is_overnight': False, 'start': '0800', 'end': '2000', 'day': 0}, {'is_overnight': False, 'start': '0800', 'end': '2000', 'day': 1}, {'is_overnight': False, 'start': '0800', 'end': '2000', 'day': 2}, {'is_overnight': False, 'start': '0800', 'end': '2000', 'day': 3}, {'is_overnight': False, 'start': '0800', 'end': '2000', 'day': 4}, {'is_overnight': False, 'start': '0800', 'end': '1700', 'day': 5}, {'is_overnight': False, 'start': '0800', 'end': '1700', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': False}]
+categories-> [{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'cakeshop', 'title': 'Patisserie/Cake Shop'}]
+latitude-> 33.681
+longitude-> -117.80452
+phone-> (949) 786-0223
+image-> https://s3-media4.fl.yelpcdn.com/bphoto/NaDPFDJxNbacz5HzI9xowQ/o.jpg
+location-> 4250 Barranca Pkwy Ste I Irvine, CA 92604
+rating-> 3.5
+yelp_url-> https://www.yelp.com/biz/layer-cake-bakery-lcb-irvine-3?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Happy Dining
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 4}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 5}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'korean', 'title': 'Korean'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]
+latitude-> 33.681
+longitude-> -117.80452
+phone-> (949) 726-8170
+image-> https://s3-media4.fl.yelpcdn.com/bphoto/pSY6NpZPTNaj5Me0fNxYng/o.jpg
+location-> 4250 Barranca Pkwy Ste G Irvine, CA 92604
+rating-> 3.5
+yelp_url-> https://www.yelp.com/biz/happy-dining-irvine-8?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Pho Ba Co
+hours-> [{'open': [{'is_overnight': False, 'start': '1000', 'end': '2100', 'day': 0}, {'is_overnight': False, 'start': '1000', 'end': '2100', 'day': 1}, {'is_overnight': False, 'start': '1000', 'end': '2100', 'day': 2}, {'is_overnight': False, 'start': '1000', 'end': '2100', 'day': 3}, {'is_overnight': False, 'start': '1000', 'end': '2100', 'day': 4}, {'is_overnight': False, 'start': '1000', 'end': '2100', 'day': 5}, {'is_overnight': False, 'start': '1000', 'end': '2100', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'noodles', 'title': 'Noodles'}]
+latitude-> 33.6811382060949
+longitude-> -117.804737276721
+phone-> (949) 857-8808
+image-> https://s3-media1.fl.yelpcdn.com/bphoto/i1JutF96zvgIH_SPqAKARg/o.jpg
+location-> 4250 Barranca Pkwy Stes J & K Irvine, CA 92604
+rating-> 4.0
+yelp_url-> https://www.yelp.com/biz/pho-ba-co-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Viktor Bene's Bakery
+hours-> [{'open': [{'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 0}, {'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 1}, {'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 2}, {'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 3}, {'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 4}, {'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 5}, {'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'customcakes', 'title': 'Custom Cakes'}]
+latitude-> 33.66955
+longitude-> -117.78614
+phone-> (949) 786-7892
+image-> https://s3-media1.fl.yelpcdn.com/bphoto/qFpQPbE0liPYp3Ke-f8AjA/o.jpg
+location-> 5521 Alton Pkwy Irvine, CA 92602
+rating-> 4.0
+yelp_url-> https://www.yelp.com/biz/viktor-benes-bakery-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Gelson's Market
+hours-> [{'open': [{'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 0}, {'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 1}, {'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 2}, {'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 3}, {'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 4}, {'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 5}, {'is_overnight': False, 'start': '0700', 'end': '2200', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'delis', 'title': 'Delis'}, {'alias': 'newamerican', 'title': 'American (New)'}]
+latitude-> 33.66955
+longitude-> -117.78614
+phone-> (949) 551-6093
+image-> https://s3-media3.fl.yelpcdn.com/bphoto/b0do-TlOtM57BUP8ulqNjw/o.jpg
+location-> 5521 Alton Pkwy Irvine, CA 92618
+rating-> 4.0
+yelp_url-> https://www.yelp.com/biz/gelsons-market-irvine-2?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+17 Cafe Ramen
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2130', 'day': 4}, {'is_overnight': False, 'start': '1100', 'end': '2130', 'day': 5}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'taiwanese', 'title': 'Taiwanese'}, {'alias': 'ramen', 'title': 'Ramen'}]
+latitude-> 33.681315647101
+longitude-> -117.805166430164
+phone-> (949) 559-6631
+image-> https://s3-media2.fl.yelpcdn.com/bphoto/21QAQSsDFX99YqLMJG02tw/o.jpg
+location-> 4250 Barranca Pkwy Ste Q Irvine, CA 92604
+rating-> 3.5
+yelp_url-> https://www.yelp.com/biz/17-cafe-ramen-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Thai Kitchen
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2130', 'day': 4}, {'is_overnight': False, 'start': '1200', 'end': '2130', 'day': 5}, {'is_overnight': False, 'start': '1200', 'end': '2100', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'thai', 'title': 'Thai'}]
+latitude-> 33.6814329062045
+longitude-> -117.805258528553
+phone-> (949) 857-1788
+image-> https://s3-media2.fl.yelpcdn.com/bphoto/YgoprfoQnNTHWcrGbx7l-w/o.jpg
+location-> 4250 Barranca Pkwy Ste U Irvine, CA 92614
+rating-> 3.5
+yelp_url-> https://www.yelp.com/biz/thai-kitchen-irvine-2?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+NY's Upper Crust Pizza
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 4}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 5}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}]
+latitude-> 33.6699118373872
+longitude-> -117.786402060011
+phone-> (949) 653-1033
+image-> https://s3-media2.fl.yelpcdn.com/bphoto/qx_LIL6TS5bJb8UIJjnUMw/o.jpg
+location-> 5613 Alton Pkwy Irvine, CA 92618
+rating-> 3.5
+yelp_url-> https://www.yelp.com/biz/nys-upper-crust-pizza-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Maizuru
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 4}, {'is_overnight': False, 'start': '1130', 'end': '2200', 'day': 5}, {'is_overnight': False, 'start': '1130', 'end': '2130', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]
+latitude-> 33.6688286
+longitude-> -117.7867736
+phone-> (949) 551-6802
+image-> https://s3-media3.fl.yelpcdn.com/bphoto/SbtCaNHTQ9UxJI7g9BWnEA/o.jpg
+location-> 5623 Alton Pkwy Irvine, CA 92618
+rating-> 4.0
+yelp_url-> https://www.yelp.com/biz/maizuru-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Chengdu LaoZao Hotpot
+hours-> [{'open': [{'is_overnight': False, 'start': '1200', 'end': '2200', 'day': 0}, {'is_overnight': False, 'start': '1200', 'end': '2200', 'day': 1}, {'is_overnight': False, 'start': '1200', 'end': '2200', 'day': 2}, {'is_overnight': False, 'start': '1200', 'end': '2200', 'day': 3}, {'is_overnight': False, 'start': '1200', 'end': '2230', 'day': 4}, {'is_overnight': False, 'start': '1200', 'end': '2230', 'day': 5}, {'is_overnight': False, 'start': '1200', 'end': '2230', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'hotpot', 'title': 'Hot Pot'}, {'alias': 'szechuan', 'title': 'Szechuan'}]
+latitude-> 33.6816841736427
+longitude-> -117.8054207414
+phone-> (949) 336-8988
+image-> https://s3-media3.fl.yelpcdn.com/bphoto/GkEygRScvPgPOznnYAV0gQ/o.jpg
+location-> 4230 Barranca Pkwy Irvine, CA 92604
+rating-> 3.5
+yelp_url-> https://www.yelp.com/biz/chengdu-laozao-hotpot-irvine-2?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+The Stand
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 4}, {'is_overnight': False, 'start': '1100', 'end': '2200', 'day': 5}, {'is_overnight': False, 'start': '1100', 'end': '2100', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'burgers', 'title': 'Burgers'}]
+latitude-> 33.6687986
+longitude-> -117.7867064
+phone-> (949) 262-9090
+image-> https://s3-media2.fl.yelpcdn.com/bphoto/uySctUvkdJZV--d67d3eLA/o.jpg
+location-> 5633 Alton Pkwy Bldg 200 Irvine, CA 92618
+rating-> 4.5
+yelp_url-> https://www.yelp.com/biz/the-stand-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Jimboy’s Tacos
+hours-> [{'open': [{'is_overnight': False, 'start': '1000', 'end': '2100', 'day': 0}, {'is_overnight': False, 'start': '1000', 'end': '2100', 'day': 1}, {'is_overnight': False, 'start': '1000', 'end': '2100', 'day': 2}, {'is_overnight': False, 'start': '1000', 'end': '2100', 'day': 3}, {'is_overnight': False, 'start': '1000', 'end': '2100', 'day': 4}, {'is_overnight': False, 'start': '1000', 'end': '2100', 'day': 5}, {'is_overnight': False, 'start': '1000', 'end': '2100', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'mexican', 'title': 'Mexican'}]
+latitude-> 33.669849
+longitude-> -117.785966
+phone-> (949) 596-8477
+image-> https://s3-media3.fl.yelpcdn.com/bphoto/n712Kuqp1S4ObKpiqB54gw/o.jpg
+location-> 5643 Alton Pkwy Irvine, CA 92618
+rating-> 3.5
+yelp_url-> https://www.yelp.com/biz/jimboy-s-tacos-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+The Coffee Bean & Tea Leaf
+hours-> [{'open': [{'is_overnight': False, 'start': '0530', 'end': '2200', 'day': 0}, {'is_overnight': False, 'start': '0530', 'end': '2200', 'day': 1}, {'is_overnight': False, 'start': '0530', 'end': '2200', 'day': 2}, {'is_overnight': False, 'start': '0530', 'end': '2200', 'day': 3}, {'is_overnight': False, 'start': '0530', 'end': '2200', 'day': 4}, {'is_overnight': False, 'start': '0600', 'end': '2200', 'day': 5}, {'is_overnight': False, 'start': '0600', 'end': '2200', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'coffee', 'title': 'Coffee & Tea'}]
+latitude-> 33.66982
+longitude-> -117.78599
+phone-> (949) 651-9903
+image-> https://s3-media4.fl.yelpcdn.com/bphoto/C_ZyfFuAQoP5d_LO2lwQIg/o.jpg
+location-> 5653 Alton Parkway Irvine, CA 92604
+rating-> 4.0
+yelp_url-> https://www.yelp.com/biz/the-coffee-bean-and-tea-leaf-irvine-4?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+El Pollo Loco
+hours-> [{'open': [{'is_overnight': False, 'start': '0930', 'end': '2300', 'day': 0}, {'is_overnight': False, 'start': '0930', 'end': '2300', 'day': 1}, {'is_overnight': False, 'start': '0930', 'end': '2300', 'day': 2}, {'is_overnight': False, 'start': '0930', 'end': '2300', 'day': 3}, {'is_overnight': False, 'start': '0930', 'end': '2300', 'day': 4}, {'is_overnight': False, 'start': '0930', 'end': '2300', 'day': 5}, {'is_overnight': False, 'start': '1000', 'end': '2200', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'mexican', 'title': 'Mexican'}]
+latitude-> 33.669235200073
+longitude-> -117.78707151446
+phone-> (949) 786-0445
+image-> https://s3-media4.fl.yelpcdn.com/bphoto/kh5zClht9NijonALDINFTw/o.jpg
+location-> 5501 Alton Pkwy Irvine, CA 92618
+rating-> 3.5
+yelp_url-> https://www.yelp.com/biz/el-pollo-loco-irvine-7?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Mustard Cafe
+hours-> [{'open': [{'is_overnight': False, 'start': '0800', 'end': '2000', 'day': 0}, {'is_overnight': False, 'start': '0800', 'end': '2000', 'day': 1}, {'is_overnight': False, 'start': '0800', 'end': '2000', 'day': 2}, {'is_overnight': False, 'start': '0800', 'end': '2000', 'day': 3}, {'is_overnight': False, 'start': '0800', 'end': '2000', 'day': 4}, {'is_overnight': False, 'start': '0800', 'end': '2000', 'day': 5}, {'is_overnight': False, 'start': '0800', 'end': '1700', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': False}]
+categories-> [{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]
+latitude-> 33.669354
+longitude-> -117.78611
+phone-> (949) 559-8080
+image-> https://s3-media4.fl.yelpcdn.com/bphoto/1W7787hi7X7hMkJqca5NCA/o.jpg
+location-> 5663 Alton Pkwy Irvine, CA 92618
+rating-> 3.5
+yelp_url-> https://www.yelp.com/biz/mustard-cafe-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
+Long's Kitchen
+hours-> [{'open': [{'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 0}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 1}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 2}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 3}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 4}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 5}, {'is_overnight': False, 'start': '1100', 'end': '2300', 'day': 6}], 'hours_type': 'REGULAR', 'is_open_now': True}]
+categories-> [{'alias': 'chinese', 'title': 'Chinese'}]
+latitude-> 33.6805427514144
+longitude-> -117.779233711639
+phone-> (949) 379-6188
+image-> https://s3-media2.fl.yelpcdn.com/bphoto/tYoQ0Cq4j9JNqHb4UUSCCA/o.jpg
+location-> 15435 Jeffery Rd Ste 103 Irvine, CA 92618
+rating-> 2.5
+yelp_url-> https://www.yelp.com/biz/longs-kitchen-irvine?adjust_creative=SBlMLfLVrl3OpqM6dv1Ekg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=SBlMLfLVrl3OpqM6dv1Ekg
