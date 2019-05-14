@@ -1,19 +1,21 @@
 import mysql.connector
+import json
 # import PrettyTable
 # from data_download import get_yelp_food_dict, get_business_data
 
 def create_connection():
-    conn = mysql.connector.connect(user='root', database='petersguide', password='password', host='127.0.0.1', port=3307)
-    
-
+    user, database, password, host, port = _get_sql_details()
+    conn = mysql.connector.connect(user=user, database=database, password=password, host=host, port=port)
 
 def del_table(table):
-    conn = mysql.connector.connect(user='root', database='petersguide', password='password', host='127.0.0.1', port=3307)
+    user, database, password, host, port = _get_sql_details()
+    conn = mysql.connector.connect(user=user, database=database, password=password, host=host, port=port)
     cursor = conn.cursor()
     cursor.execute("DROP TABLE {};".format(table))
 
 def create_food_places_table():
-    conn = mysql.connector.connect(user='root', database='petersguide', password='password', host='127.0.0.1', port=3307)
+    user, database, password, host, port = _get_sql_details()
+    conn = mysql.connector.connect(user=user, database=database, password=password, host=host, port=port)
     cursor = conn.cursor()
     cursor.execute("""CREATE TABLE IF NOT EXISTS food_places(
                         id INTEGER AUTO_INCREMENT PRIMARY KEY,
@@ -25,57 +27,99 @@ def create_food_places_table():
                         latitude DECIMAL(8, 5) NOT NULL,
                         longitude DECIMAL(8, 5) NOT NULL);"""
                     )
+    cursor.close()
+    conn.close()
+
+def create_hours_table():
+    user, database, password, host, port = _get_sql_details()
+    conn = mysql.connector.connect(user=user, database=database, password=password, host=host, port=port)
+    cursor = conn.cursor()
+    cursor.execute("""CREATE TABLE IF NOT EXISTS hours(
+                        id INTEGER AUTO_INCREMENT PRIMARY KEY,
+                        start TIME NOT NULL, 
+                        end TIME NOT NULL, 
+                        day VARCHAR(255) NOT NULL, 
+                        bussiness_id INTEGER,
+                        FOREIGN KEY (bussiness_id) REFERENCES food_places(id));"""
+                    )
+    cursor.close()
+    conn.close()
+
+
+                   
 
 def show_tables():
-    conn = mysql.connector.connect(user='root', database='petersguide', password='password', host='127.0.0.1', port=3307)
+    user, database, password, host, port = _get_sql_details()
+    conn = mysql.connector.connect(user=user, database=database, password=password, host=host, port=port)
     cursor = conn.cursor()
     cursor.execute('SHOW TABLES;')
 
 
 def insert_data(data):
-    conn = mysql.connector.connect(user='root', database='petersguide', password='password', host='127.0.0.1', port=3307)
+    user, database, password, host, port = _get_sql_details()
+    conn = mysql.connector.connect(user=user, database=database, password=password, host=host, port=port)
     cursor = conn.cursor()
     sql = """INSERT INTO food_places(name, location, image, rating, phone, latitude, longitude) VALUES(%s, %s, %s, %s, %s, %s, %s);"""
     cursor.execute(sql, data)               
-    # cursor.execute("""INSERT INTO food_places(name, location, image, rating, phone, latitude, longitude) VALUES({name}, {location}, {image}, {rating}, {phone}, {latitude}, {longitude});""".format(
-    #                         name=name, location=location, image=image, rating=rating, phone=phone,
-    #                         latitude=latitude, longitude=longitude)
-    #               )
     conn.commit()
 
 
+def insert_yelp_data(file):
+    temp_bus_dict = {}
+    temp_hours_dict = {}
+    for line in open(file):
+        if '->' not in line:
+            if temp_bus_dict != {}:
+                data = [temp_bus_dict['name'], temp_bus_dict['location'], temp_bus_dict['image'], 
+                            temp_bus_dict['rating'], temp_bus_dict['phone'], temp_bus_dict['latitude'], 
+                            temp_bus_dict['longitude']]
+                insert_data(data)
+
+                # insert hours into database
+                j = json.loads('')
+
+                for each in j['open']:
+                    print (each['day'])
+
+            temp_bus_dict = {}
+            temp_bus_dict['name'] = line.rstrip()
+        else:
+            category, value = line.split('-> ')
+            if category == 'hours':
+                # temp_hours_dict[category] = 
+                pass
+            else:
+                temp_bus_dict[category] = value.rstrip()
+
+
+
+
 def print_table(table):
-    conn = mysql.connector.connect(user='root', database='petersguide', password='password', host='127.0.0.1', port=3307)
+    user, database, password, host, port = _get_sql_details()
+    conn = mysql.connector.connect(user=user, database=database, password=password, host=host, port=port)
     cursor = conn.cursor()
     cursor.execute("SELECT * FROM {};".format(table))
     myresult = cursor.fetchall()
     for x in myresult:
         print(x)
 
-def insert_yelp_data(file):
-    temp_dict = {}
-    for line in open(file, 'a+'):
-        if '->' not in line:
-            if temp_dict != {}:
-                data = [temp_dict['name'], temp_dict['location'], temp_dict['image'], 
-                            temp_dict['rating'], temp_dict['phone'], temp_dict['latitude'], 
-                            temp_dict['longitude']]
-                insert_data(data)
-            temp_dict = {}
-            temp_dict['name'] = line.rstrip()
-        else:
-            category, value = line.split('-> ')
-            temp_dict[category] = value.rstrip()
-        
-   
-    
 
+def _get_sql_details():
+    f = open('sql_conn_details.txt', 'r')
+    sql_details = []
+    for line in f:
+        k, v = line.split(': ')
+        v = v.rstrip()
+        if k == 'port':
+            v = int(v)
+        sql_details.append(v)
+    return sql_details
 
 if __name__=='__main__':
-    del_table('food_places')
-    create_food_places_table()
-    insert_yelp_data('yelp_data.txt')
+    # del_table('food_places')
+    # create_food_places_table()
+    # insert_yelp_data('yelp_data.txt')
     # show_tables()
-    # print_table('food_places')
+    print_table('food_places')
     
 
